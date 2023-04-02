@@ -1,4 +1,4 @@
-# rocketseat-ignite-nova-trila-nodejs
+# rocketseat-ignite-nova-trilha-nodejs
 
 ## \*Trilha de 2023
 
